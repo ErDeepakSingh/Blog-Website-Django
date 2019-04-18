@@ -135,5 +135,3 @@ EMAIL_PORT=587
 EMAIL_USE_TLS=True
 EMAIL_HOST_USER=myemail
 EMAIL_HOST_PASSWORD=mypassword
-# EMAIL_HOST_USER=os.environ.get('deepakthakur755@gmail.com')
-# EMAIL_HOST_PASSWORD=os.environ.get('9936222290')
